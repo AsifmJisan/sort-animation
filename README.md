@@ -1,8 +1,8 @@
 # Sort Animation (Work in progress)
-I am currently working on a prject for visualising sorting algorythms. Using `pygame` for rendering the interface since I am familier with the library. If you find any bugs, please let me know.
+I am currently working on a prject for visualizing sorting algorythms. Using `pygame` for rendering the interface since I am familier with this library. If you find any bugs, please let me know.
 
 # How to Run it
-- Open a terminal in the directory and intall the dependencies:
+- Open a terminal in the directory and isntall the dependencies:
 ```bash
 pip install -r requirements.txt
 ```
